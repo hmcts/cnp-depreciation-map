@@ -6,7 +6,7 @@ terraform:
   providers:
     registry.terraform.io/chilicat/pkcs12:
       - version: "0.0.7"
-        date_deadline": "2024-12-30"
+        date_deadline: "2024-12-30"
     registry.terraform.io/dynatrace-oss/dynatrace:
       - version: "1.18.1"
         date_deadline: "2024-12-30"
