@@ -14,7 +14,7 @@ terraform:
     date_deadline: "2024-12-30"
   registry.terraform.io/hashicorp/azurerm:
     version: "3.122.0"
-    date_deadline: "2024-12-30"
+    date_deadline: "2024-01-01"
   registry.terraform.io/integrations/github:
     version: "5.16.0"
     date_deadline: "2024-12-30"
